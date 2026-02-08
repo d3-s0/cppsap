@@ -1,0 +1,15 @@
+{
+    "Dimensions" : {
+        "ground_floor_area": 40,
+        "first_floor_area": 40,
+        "ground_floor_storey_height":2.5
+    },
+    "Ventilation_rate":{
+        "open_chimneys": 1,
+        "open_flues":0,
+        "closed_fire":0,
+        "has_test": false,
+        "system": "natural",
+        "sheltered_sides":2
+    }
+}
